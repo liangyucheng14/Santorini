@@ -6,7 +6,7 @@ html, body {
 img {
 	position: relative;
 	top: 20px;
-	left: 38%;
+	margin: 0 auto;
 }
 
 .btn-wrapper {
