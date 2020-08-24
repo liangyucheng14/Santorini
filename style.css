@@ -5,6 +5,12 @@ body{
   color: white;
 }
 
+.hz-entrance {
+  position: relative;
+  top: -20px;
+  left: 100px;
+}
+
 .list-container{
   display: flex;
   position: absolute;
