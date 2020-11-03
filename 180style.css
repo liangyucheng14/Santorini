@@ -14,13 +14,13 @@ body{
 
 .text-container {
   position: relative;
-  top: 30%;
-  color: white;
+  top: 98%;
+  color: red;
 }
 
 .video {
   position: relative;
-  top: 80%;
+  top: 100%;
   width: 100px;
   height: 100px;
 }
